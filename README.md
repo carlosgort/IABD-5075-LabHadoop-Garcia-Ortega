@@ -76,17 +76,15 @@ Despliegue como código (IaC) de un clúster distribuido \*\*Apache Hadoop 3\*\*
 
 
 
-\- `docker/`: Definición de infraestructura como código (`docker-compose.yml` y `config`).
+\- `docker/`: Definición de infraestructura como código (`docker-compose.yml` y `config`)
 
-\- `evidencias/`: Capturas de pantalla de la auditoría HDFS, simulación de caída de nodo y ejecución en YARN.
+\- `evidencias/`: Capturas de pantalla de la auditoría HDFS, simulación de caída de nodo y ejecución en YARN
 
-\- `informe/`: Memoria técnica de la práctica en formato PDF.
-
-
-
-\## Autoría
+\- `informe/`: Memoria técnica de la práctica en PDF
 
 
+
+\## Autor
 
 \- \*\*Alumno:\*\* Carlos García Ortega
 
