@@ -1,6 +1,6 @@
 # Práctica de Laboratorio: Clúster Multi-Nodo Apache Hadoop 3
 
-Despliegue como código (IaC) de un clúster distribuido **Apache Hadoop 3** sobre Docker, auditoría de bloques en HDFS, simulación de tolerancia a fallos y ejecución de procesamiento distribuido MapReduce sobre YARN.
+Despliegue como código de un clúster distribuido **Apache Hadoop 3** sobre Docker, auditoría de bloques en HDFS, simulación de tolerancia a fallos y ejecución de procesamiento distribuido MapReduce sobre YARN
 
 ## Arquitectura Desplegada
 
@@ -45,4 +45,3 @@ Despliegue como código (IaC) de un clúster distribuido **Apache Hadoop 3** sob
 ## Autoría
 
 - **Alumno:** Carlos García Ortega
-- **Módulo:** Sistemas de Big Data (IABD - 5075 / RD 279/2021)
