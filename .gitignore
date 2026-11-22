@@ -1,5 +1,14 @@
-﻿*.dat
-*.log
-tmp/
+﻿# Archivos temporales y del sistema operativo
 .DS_Store
 Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.log
+
+# Entornos y editores
+.vscode/
+.idea/
+
+# Volúmenes o datos locales temporales
+datos_tmp/
